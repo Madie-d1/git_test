@@ -1,4 +1,8 @@
 # git_test
 Hello Odin!
 
-This repo will be used as a personal portfolio one day Hope!
+This repo will be used as a personal portfolio one day,
+
+Hope!
+
+Add all future project work here!
